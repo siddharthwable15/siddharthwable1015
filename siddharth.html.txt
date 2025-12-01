@@ -1,0 +1,154 @@
+!DOCTYPE html>
+<html>
+<head>
+     <title>Siddharth Wable</title>
+
+ <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom right, #74b9ff,#);
+            color: #2d3436;
+            text-align: center;
+        }
+
+        h1, h2, h3 {
+            font-weight: 650;
+            margin-top: 30px;
+        }
+
+.container {
+            width: 80%;
+            margin: auto;
+            margin-top: 30px;
+            padding: 20px;
+            background: #ffffffd8;
+}
+
+      
+        
+        
+        
+        ul li {
+            background: #81ecec;
+            margin: 8px auto;
+            padding: 10px;
+            width: 200px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        ul li:hover {
+            background:  hsla(240, 25%, 50%, .5);
+            color: white;
+        
+        }
+
+        a {
+            display: inline-block;
+            margin: 10px;
+            padding: 15px 20px;
+            background: #6c5ce7;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+         
+        }
+        a:hover {
+            background: #341f97;
+       
+        }
+
+    
+        img {
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+       
+        table {
+            width: 85%;
+            margin: 50px auto;
+            border-collapse: collapse;
+            background: rgba(0, 128, 0, 0.3);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+</style>
+
+</head>
+<body bgcolor="skyblue">
+<h1> My name is : Siddharth Wable </h1>
+
+<h2> My address is : KOPARGAON, AHILYANAGAR </h2>
+
+<div class="container">
+<h3> my things <h3>
+<ul>
+    <li>Headphones</li>
+    <li>Mobile</li> 
+    <li>Laptop</li> 
+</ul>
+
+<br>
+
+<a href="https://www.google.com">Google</a>
+
+<br>
+
+<a href="https://www.instagram.com/?hl=en&deoia=1">My Insta</a>
+
+<div>
+    <img src="BMW M5 comp" alt="JPG File (.jpg)" width="300"/>
+</div>
+
+<br><br>
+
+<!-- Table to disply CIA marks-->
+<h3>My CIA Marks</h3>
+<table border="5">
+    <tr>
+      
+        <th>Subject</th>
+        <th>Marks Obtained</th>
+        <th>Total Marks</th>
+    </tr>
+    <tr>
+        <td>M1</td>
+        <td>12</td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td>EC</td>
+        <td>23</td>
+        <td>30</td>
+       
+    </tr>
+    <tr>
+        <td>BEE</td>
+        <td>11</td>
+        <td>15</td>
+       
+    </tr>
+    <tr>
+        <td>BXE</td>
+        <td>15</td>
+        <td>15</td>
+       
+    </tr>
+    <tr>
+        <td>IT</td>
+        <td>13</td>
+        <td>15</td>
+       
+    </tr>
+    <tr>
+        <td>CFP</td>
+        <td>15</td>
+        <td>20</td>
+       
+    </tr>
+</table>
+</div>
+
+</body>
+</html>
